@@ -4,7 +4,7 @@ This repo contains Python scripts to analyze personal stock portfolio performanc
 However, it is not very stable due to yahoo finance and a professional solution such as https://www.portfolio-performance.info/en/ is recommended.
 
 As an example, see:  
-https://github.com/gerritnowald/budget_book/blob/main/test_stocks/calculate_shares.ipynb  
+https://github.com/gerritnowald/portfolio_analysis/blob/main/src/calculate_shares.ipynb  
 See also this blog post:  
 https://gerritnowald.wordpress.com/2024/07/14/tracking-stock-portfolio-value-over-time-with-yfinance-and-pandas/
 
