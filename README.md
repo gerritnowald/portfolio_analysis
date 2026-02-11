@@ -1,6 +1,6 @@
 ## analyzing stock portfolio performance
 
-![](https://raw.githubusercontent.com/gerritnowald/portfolio_analysis/main/invested_value)
+![](https://raw.githubusercontent.com/gerritnowald/portfolio_analysis/main/invested_value.png)
 
 This repo contains Python scripts to analyze personal stock portfolio performance.  
 However, it is not very stable due to yahoo finance and a professional solution such as https://www.portfolio-performance.info/en/ is recommended.
